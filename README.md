@@ -7,9 +7,9 @@ They can be found in Asset folder.
 Powered by Unity, Visual Studio
 
 
-![](img/main.png)
-
 ![](img/unity.png)
+
+![](img/main.png)
 
 ![](img/ingame.png)
 
