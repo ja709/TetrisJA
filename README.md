@@ -7,10 +7,10 @@ They can be found in Asset folder.
 Powered by Unity, Visual Studio
 
 
-![](images/github-main.png)
+![](img/github-main.png)
 
-![](images/github-unity.png)
+![](img/github-unity.png)
 
-![](images/github-ingame.png)
+![](img/github-ingame.png)
 
-![](images/github-game.png)
+![](img/github-game.png)
